@@ -2,7 +2,7 @@
 
 Console.WriteLine("Hello, World!");
 
-var str = "JAEAESKELAEINEN";
+var str = "GROSSSCHAEDL";
 
 // RUESSWUSSRUEMSSUE 
 
