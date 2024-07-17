@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\bin\Debug\net8.0\UMLAT_Parser.exe
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\bin\Debug\net8.0\UMLAT_Parser.deps.json
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\bin\Debug\net8.0\UMLAT_Parser.runtimeconfig.json
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\bin\Debug\net8.0\UMLAT_Parser.dll
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\bin\Debug\net8.0\UMLAT_Parser.pdb
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\UMLAT_Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\UMLAT_Parser.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\UMLAT_Parser.AssemblyInfo.cs
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\UMLAT_Parser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\UMLAT_Parser.dll
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\refint\UMLAT_Parser.dll
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\UMLAT_Parser.pdb
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\UMLAT_Parser.genruntimeconfig.cache
+C:\Users\User\source\repos\UMLAT_Parser\UMLAT_Parser\obj\Debug\net8.0\ref\UMLAT_Parser.dll
